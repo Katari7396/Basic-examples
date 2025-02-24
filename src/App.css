@@ -1,0 +1,6 @@
+body{
+  background-color: rgb(167, 240, 215);
+  display: grid;
+  justify-content: center;
+  color: black;
+}
